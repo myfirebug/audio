@@ -3,7 +3,7 @@
  
 # 使用
 ```javascript
-/
+/*
  * config
  * @param {String} url   音乐地址
  * @param {String} id    盒子
